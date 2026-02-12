@@ -4,3 +4,6 @@
 # My first target is to get the AZ-104 and complete a 12 weeks plan of study to take the exam.
 # In parallel I would like to keep developing my skills in the culture of a DevOps as I keep a live and ongoing personal life.
 # My focus is Azure, Terraform, CI/CD and Containers
+git add .
+git commit -m "Initial project structure and learning goals"
+git push
